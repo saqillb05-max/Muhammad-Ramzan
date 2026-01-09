@@ -1,0 +1,9 @@
+{
+  "name": "Zaviar Building Material",
+  "short_name": "Zaviar BM",
+  "description": "Comprehensive production, sales, and financial management for building material factories.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "pwa": true
+}
